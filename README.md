@@ -13,13 +13,6 @@
 
 ![image](images/massege.png)
 
-The points of this document are:
-
-- [x] [1. Introduction](#1-introduction)
-- [x] [2. Requirements](#2-requirements)
-- [x] [3. Installation](#3-installation)
-- [x] [4. Configuration](#4-configuration)
-- [x] [5. Usage](#5-usage)
 
 ## 1. Introduction
 
